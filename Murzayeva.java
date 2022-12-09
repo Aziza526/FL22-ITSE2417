@@ -65,8 +65,4 @@ public class Murzayeva implements FinalProject {
 
     }
 
-    public static void main(String[] args) {
-        Murzayeva mur = new Murzayeva();
-        mur.begin();
-    }
 }
